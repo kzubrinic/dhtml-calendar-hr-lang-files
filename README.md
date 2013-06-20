@@ -9,5 +9,5 @@ In this repository, there are two files: ANSI encoded version (calendar-hr.js), 
 
 ##Usage:##
  
-    Copy files from repository in calendar's **lang** folder. 
+Copy files from repository in calendar's **lang** folder. 
 
