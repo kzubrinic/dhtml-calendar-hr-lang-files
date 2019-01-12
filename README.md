@@ -7,7 +7,8 @@ Croatian language files in original project's archive are outdated (for calendar
 
 In this repository, there are two files: ANSI encoded version (calendar-hr.js), and UTF-8 encoded version (calendar-hr-utf8.js).
 
-##Usage:##
+Usage
+-----
  
 Copy files from repository in calendar's **lang** folder. 
 
